@@ -9,7 +9,6 @@
 
 	<modules>
 		<module>disquo-api</module>
-		<module>disquo-web</module>
 	</modules>
 	
 </project>
